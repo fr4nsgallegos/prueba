@@ -15,7 +15,7 @@ class PrimeraPantalla extends StatelessWidget {
       appBar: AppBar(title: Text("Mi primer app")),
       body: Column(
         children: [
-          Text("texto1"),
+          Text("JHONNY"),
           Text("texto2"),
           Text("texto3"),
           Image.network(
