@@ -32,11 +32,7 @@ class PrimeraPantalla extends StatelessWidget {
             fit: BoxFit.cover,
             alignment: Alignment.bottomCenter,
           ),
-          // Container(
-          //   width: anchoPantalla * 0.5,
-          //   height: alturaPantalla * 0.8,
-          //   color: Colors.red,
-          // )
+
           SizedBox(height: 16),
           ElevatedButton(
             onPressed: () {
